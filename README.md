@@ -1,4 +1,3 @@
-# company-ranking-app
 # Corporate Data Multi-Metrics Analyzer
 
 EDINETや厚生労働省（しょくばらぼ・女性活躍推進データベース）の公開データを統合し、任意の指標（財務、労働環境、多様性など）に基づいて企業データを多角的に分析・可視化するStreamlitダッシュボードです。
